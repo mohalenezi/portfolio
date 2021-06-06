@@ -1,0 +1,42 @@
+h1 {
+  color: #6b705c;
+  text-align: center;
+  font-style: oblique;
+  border: 2px solid#a5a58d;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 60px;
+}
+p {
+  font-style: oblique;
+  font-size: 40px;
+}
+.university {
+  font-style: italic;
+  color: #b7b7a4;
+}
+.bigTitle {
+  color: #6b705c;
+  text-align: left;
+  font-style: oblique;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 60px;
+}
+
+h2 {
+  color: #ddbea9;
+  font-style: italic;
+  font-size: 30px;
+}
+
+.supLi {
+  color: #a5a58d;
+  font-style: italic;
+  font-size: 30px;
+}
+
+li {
+  margin: 20px;
+  font-size: 30px;
+}
